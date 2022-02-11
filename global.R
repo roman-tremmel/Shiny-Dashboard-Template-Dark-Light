@@ -4,7 +4,7 @@ library(dashboardthemes)
 library(shinyWidgets)
 
 app_version <- "1.0"
-source("modules/darktheme.R")
+source("modules/theme_switch.R")
 customLogo <- shinyDashboardLogoDIY(boldText = "Shiny",
                                     mainText = "App",
                                     badgeBackColor = "#017DC3",
