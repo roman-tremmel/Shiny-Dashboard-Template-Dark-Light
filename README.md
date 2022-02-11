@@ -1,4 +1,4 @@
-# Shiny-Dashboard-Template-Dark-Light
+# Shiny Dashboard Template with Dark to Light Switch
 
 This is a shiny ~admin~ dashboard template with a dark to light color switch. 
 
