@@ -8,4 +8,15 @@ Ii is based on on following `R` packages:
     library(dashboardthemes)
     library(shinyWidgets)
 
-and there is a [Live Demo](https://roman-tremmel.shinyapps.io/Shiny_Dashboard_Dark_light/) or install the App using ``
+and there is a [Live Demo](https://roman-tremmel.shinyapps.io/Shiny_Dashboard_Dark_light/) or try to run the App locally using   
+
+
+    list_of_packages = c("shiny", "shinydashboard", "dashboardthemes", "shinyWidgets")
+    lapply(list_of_packages, function(x) if(!require(x,character.only = TRUE)) install.packages(x))
+    shiny::runGitHub("roman-tremmel/Shiny-Dashboard-Template-Dark-Light")
+
+
+
+The main feature is a radio switch in the top right corner. Then, the user can toggle between a dark and light theme.  
+
+<img src="/app.PNG" />
