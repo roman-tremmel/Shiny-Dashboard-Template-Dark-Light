@@ -19,4 +19,4 @@ and there is a [Live Demo](https://roman-tremmel.shinyapps.io/Shiny_Dashboard_Da
 
 The main feature is a radio switch in the top right corner. Then, the user can toggle between a dark and light theme.  
 
-<img src="/app.PNG" />
+<img src="/app.png" />
