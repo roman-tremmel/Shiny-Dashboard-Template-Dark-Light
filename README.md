@@ -1,5 +1,6 @@
-# Shiny-Dashboard-Template-Dark-Light-
-This is a shiny admin dashboard template with light/dark color switch. 
+# Shiny-Dashboard-Template-Dark-Light
+
+This is a shiny ~admin~ dashboard template with a dark to light color switch. 
 
 Ii is based on on following `R` packages: 
 
