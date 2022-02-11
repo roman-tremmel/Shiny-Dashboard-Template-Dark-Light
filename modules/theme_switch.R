@@ -10,12 +10,6 @@ uiChangeThemeDropdown <- function()
       status = "default",
       fill = TRUE,
       bigger = TRUE,width="50px")
-    # radioButtons(
-    #   inputId =  ns("dbxChangeTheme"),
-    #   label = NULL, 
-    #     
-    #   choiceNames   = c("dark", "light"), 
-    #   choiceValues  = c(T, F))
   )
   
   return(dropdown)
