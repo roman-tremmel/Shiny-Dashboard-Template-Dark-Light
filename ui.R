@@ -1,4 +1,3 @@
-source("C:/Users/tremmel/Desktop/darktheme.R")
 header <- dashboardHeader(title = customLogo,
                           tags$li(class = "dropdown",
                                   tags$li(class = "dropdown", style = "display:table; margin: 15px 0px 0px 0px;", 
